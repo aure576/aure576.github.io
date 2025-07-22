@@ -9,21 +9,6 @@ Este es un sistema de cotización y consulta especializada para servicios de cem
 - Cotizaciones automáticas
 - Interfaz responsive y amigable
 
-## Acceso
-
-La aplicación está disponible en: https://aure576.github.io
-
-### Credenciales de Acceso
-- Email: aure575@gmail.com
-- Email alternativo: jenny@gmail.com
-
-## Tecnologías Utilizadas
-
-- React
-- TailwindCSS
-- FontAwesome
-- OpenAI API
-
 ## Estructura del Proyecto
 
 - `index.html`: Página principal
